@@ -1,0 +1,62 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "fullName": "John",
+      "email": "john",
+      "password": "john"
+    },
+    {
+      "id": "2",
+      "fullName": "Sami",
+      "email": "sami",
+      "password": "sami"
+    },
+    {
+      "email": "rayen",
+      "fullName": "rayen troudi",
+      "password": "rayen",
+      "id": "7Juvnpa"
+    }
+  ],
+  "contact": [
+    {
+      "id": "6c03f654-8b84-474c-b68b-228fd70ff350",
+      "idSender": "7Juvnpa",
+      "idReceiver": "2",
+      "messages": [
+        {
+          "id": "7Juvnpa",
+          "content": "wa sahbi",
+          "time": "2023-12-03T21:08:50.915575Z",
+          "isSender": true
+        },
+        {
+          "id": "2",
+          "content": "waaa bro",
+          "time": "2023-12-03T21:19:31.133255Z",
+          "isSender": true
+        }
+      ]
+    },
+    {
+      "id": "7a6b932f-2bfc-4d05-97e0-43ca3118cdd9",
+      "idSender": "7Juvnpa",
+      "idReceiver": "1",
+      "messages": [
+        {
+          "id": "7Juvnpa",
+          "content": "waaa",
+          "time": "2023-12-03T21:18:35.823790Z",
+          "isSender": true
+        },
+        {
+          "id": "1",
+          "content": "hi",
+          "time": "2023-12-08T10:46:39.715148Z",
+          "isSender": true
+        }
+      ]
+    }
+  ]
+}

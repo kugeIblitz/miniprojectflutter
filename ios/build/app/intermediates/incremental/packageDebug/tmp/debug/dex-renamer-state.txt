@@ -1,0 +1,4 @@
+#Wed Nov 22 13:28:28 WAT 2023
+base.0=C\:\\Users\\kugelblitz\\Desktop\\miniprojectflutter\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
